@@ -3,6 +3,10 @@
 ## Open WSL/VPS Terminal
 
 ```
+sudo su
+```
+
+```
 screen -S HyperSpace
 ```
 
